@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ventti4.Pelaaja1">
+    <Position X="10.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Pelaaja1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ventti4.Pelaaja2">
+    <Position X="12" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Pelaaja2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ventti4.Korttipakka">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Korttipakka.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Ventti4.Pankki">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAABIAAQgAAAEIAAAAAAAEAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Pankki.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ventti4.Valvoja">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAgAAoABAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Valvoja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ventti4.Jakaja">
+    <Position X="6.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>RAAAAEAQIMAAADAIACIKAQACAAgAACAABAEAEABAAAA=</HashCode>
+      <FileName>Jakaja.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Valvoja" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ventti4.Pelikierrokset">
+    <Position X="1" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pelikierrokset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ventti4.Program">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAQAAAAgAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Valikko" />
+      <Field Name="Valikkotoiminne" />
+      <Field Name="Tiedostot" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ventti4.Tiedostot">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiedostot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ventti4.Valikko">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Valikko.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ventti4.Valikkotoiminne">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAgAAAAiABAAAIAAEAAAAAAAAAAAEQAACgEAA=</HashCode>
+      <FileName>Valikkotoiminne.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Pelikierrokset" />
+      <Field Name="Jakaja" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="Ventti4.IKortti">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IKortti.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ventti4.IPankki">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAABIAAQAAAAAIAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>IPankki.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ventti4.IPelipoyta">
+    <Position X="8.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPelipoyta.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
