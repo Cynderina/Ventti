@@ -1,7 +1,3 @@
-Aiempi arvio:
-Palaute	
-Oliot 3 Luokkarakenne 2 Rajapinnat 2 Dokumentointi 4 Tallentaminen 2 Keksiarvo 2,6 Arvolause 3
-
 OLIOT
 osaa luoda luokasta olion --> Tätä tehdään läpi harjoitustyön esim. program.cs tai valikkotoiminne.cs useamman kerran.
 osaa luoda dynaamisen oliokokoelman --> Yleisesti koko harjoitustyö kokonaisuus on dynaaminen oliokokoelma.
