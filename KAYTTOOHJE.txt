@@ -1,0 +1,23 @@
+Käyttöohje:
+- Peliä ohjataan seuraavilla kirjainkomennoilla.
+
+Valikko:
+[p] Pelaa
+[s] Tarkista pelaajien saldo
+[t] Pelitilastot
+[v] Tulosta valikko
+[q] Lopeta
+
+p --> aloittaa uuden pelikierroksen.
+- Pelaajalta kysytään paljonko haluaa panostaa. Alkusaldo 100 rahaa.
+- Pelaaja saa lisää kortteja valinnalla 'k' ja lopettaa korttien ottamisen valinnalla 'e'
+- Jos käden arvo ylittää 21, siirtyy vuoro automaattisesti seuraavalle pelaajalle.
+- Kunkin pelikierroksen jälkeen päivitetään pelitilastoja ja saldot.
+
+s --> tarkistaa pelaajien saldot.
+
+t --> tulostaa pelitilastot
+
+v --> tulostaa valikon
+
+q --> lopettaa pelaamisen

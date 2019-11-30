@@ -63,5 +63,9 @@
     <None Include="App.config" />
     <None Include="ClassDiagram1.cd" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="KAYTTOOHJE.txt" />
+    <Content Include="TESTAUSSUUNNITELMA.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

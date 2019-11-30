@@ -1,0 +1,7 @@
+﻿Testaussuunnitelma:
+- Testaa saatko ohjelmaa kaatumaan eri valinnoilla
+- Mitä kehitettävää keksit
+- Tekisitkö jonkin asian toisella tavalla
+
+Omat bugihavainnot:
+- Pelaajan antama saldo pitää antaa numeerisena, muuten ohjelma kaatuu.
