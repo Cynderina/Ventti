@@ -1,0 +1,5 @@
+Kaikki valikon toiminnot toimivat hyvin oikeilla syötteillä. 
+Ensimmäisellä kerralla ohjelma kaatui, kun valitsin p: " Input string was not in a correct format". 
+Myöhemmin en saanut sitä enää kaatumaan, vaikka yritin erilaisia syötteitä. 
+Parannuksia: pelaajan käden sisältö 
+Hyvältä näyttää, en keksi, mitä tekisin toisin
