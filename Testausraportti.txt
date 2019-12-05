@@ -1,0 +1,17 @@
+﻿Lisää kortteja kysymys ei crashaa, vaikka antaisi numeroita
+tai jotain muuta, kuin kysytään. Tosi hyvä.
+Tosin, tässä voisi olla hyvä myös ilmoitus käyttäjälle, että
+käyttäjä on antanut vääränlaista dataa.
+
+Valikkoa en saanut myöskään crashaamaan.
+Tästä olisi myös hyvä, jos käyttäjä saisi myös ilmoituksen,
+että on antanut jotain määrittelyn ulkopuolista dataa.
+
+Tosiaan pelaajalta pyydetty summa saa ohjelman crashaamaan.
+Tämä näyttikin olevan jo tiedossa, ja tämä oli ainut, jolla 
+sain ohjelman crashaamaan.
+
+Koodi oli erittäin luettavaa, kommentit selkiyttävät hyvin.
+Muuttujien ja metodien yms. nimet ovat erittäin hyvin toimintoja
+kuvaavia. Ohjelman käyttäminen oli varsin sujuvaa.
+

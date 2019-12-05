@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="KAYTTOOHJE.txt" />
+    <Content Include="Testausraportti.txt" />
     <Content Include="TESTAUSSUUNNITELMA.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
